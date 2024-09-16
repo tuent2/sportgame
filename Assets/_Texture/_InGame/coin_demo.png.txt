@@ -1,0 +1,1 @@
+coin_demo_01.png.png 3 29, coin_demo_02.png.png 204 29, coin_demo_03.png.png 400 29, coin_demo_04.png.png 619 28, coin_demo_05.png.png 833 30, coin_demo_06.png.png 1028 30, coin_demo_07.png.png 1201 28, coin_demo_08.png.png 1369 29, coin_demo_09.png.png 1559 29, coin_demo_10.png.png 1743 29.

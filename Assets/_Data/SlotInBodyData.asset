@@ -1,0 +1,553 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4729bd36a6928e145b7404882dedcc17, type: 3}
+  m_Name: SlotInBodyData
+  m_EditorClassIdentifier: 
+  Head:
+  - {fileID: 21300000, guid: 6ec07f72880af034a95f9bdba015d214, type: 3}
+  - {fileID: 21300000, guid: 8bfb87e0db4a8104a943050efa5d1190, type: 3}
+  - {fileID: 21300000, guid: ef417e3641bae9b4fb541dc2e1936a89, type: 3}
+  - {fileID: 21300000, guid: 9e2e63af812d716449f107233ff9e3ac, type: 3}
+  Hair:
+  - {fileID: 21300000, guid: 6a3953b1dbf5ab7498b9d44d50384d3c, type: 3}
+  - {fileID: 21300000, guid: 95f0e2369c4d3904f9b0d63a35787e11, type: 3}
+  - {fileID: 21300000, guid: 4214bb94b29f16144b50eca5559576a4, type: 3}
+  - {fileID: 21300000, guid: 612750c26b42522489327997a85e3332, type: 3}
+  - {fileID: 21300000, guid: b93b85fe757898b48b315a9dc29134f2, type: 3}
+  - {fileID: 21300000, guid: 338ccebcb1e6161419fa2d8369748b64, type: 3}
+  - {fileID: 21300000, guid: b964cb168ba91964fbfe145053ca26ea, type: 3}
+  - {fileID: 21300000, guid: 4ab03de56e5270040a45d804036ad7dd, type: 3}
+  - {fileID: 21300000, guid: 07f78bc0d3314bd4ea15ddc393cfaac7, type: 3}
+  - {fileID: 21300000, guid: 6ddd571dfafd1e94a9fd5c2fc71adb44, type: 3}
+  - {fileID: 21300000, guid: 24cc3f382ecb15a47bff083c023183e9, type: 3}
+  - {fileID: 21300000, guid: 6d920feb2f074164e9fbe599068f53fe, type: 3}
+  - {fileID: 21300000, guid: 441cf434cb2f8084e91df04f4aa037a5, type: 3}
+  - {fileID: 21300000, guid: 46a3ad5d6af02334f98ff343e70ef623, type: 3}
+  - {fileID: 21300000, guid: 46e2404d71d1f0e4f9dcd944ea40c756, type: 3}
+  - {fileID: 21300000, guid: 5ee2962626b113c45a374f071e019225, type: 3}
+  Skin:
+  - {fileID: 21300000, guid: e744ff2c12b4f30448d65437d57bdd5b, type: 3}
+  Custom:
+  - {fileID: 21300000, guid: b7cb93d20a58a8740aaf0bd8d3c478f9, type: 3}
+  - {fileID: 21300000, guid: 9dcaedadfdf003647a67bbe8b338a979, type: 3}
+  - {fileID: 21300000, guid: 384d8bb1209b26d4d93f24d48484a533, type: 3}
+  - {fileID: 21300000, guid: 93be258f4be709e4ebd37171bec005e4, type: 3}
+  - {fileID: 21300000, guid: c10d67311409ff94888ddea417976a78, type: 3}
+  - {fileID: 21300000, guid: 6b8cfbf3467e4fb44babd19b37ab8fd7, type: 3}
+  - {fileID: 21300000, guid: 6f6afafdda25bcf4baa3b5cdd0631108, type: 3}
+  - {fileID: 21300000, guid: 4c862c49336025e4f942f51bca3ab6eb, type: 3}
+  - {fileID: 21300000, guid: 9bd30e6366330d840afb838b43d1ba24, type: 3}
+  - {fileID: 21300000, guid: d30e5422e19079f49a72157f75bca296, type: 3}
+  - {fileID: 21300000, guid: 67fc16960f9513145b0c5a1a00e382cd, type: 3}
+  - {fileID: 21300000, guid: 15b20016ac2063c4aa2e872fd1b1fbe1, type: 3}
+  - {fileID: 21300000, guid: f09876ddc0bde3941860c8b43a287b2a, type: 3}
+  - {fileID: 21300000, guid: ecacea9be20935f48ba1a1b90f6b54c0, type: 3}
+  - {fileID: 21300000, guid: 2f7a98d2d5551fc4da18caf3db1be305, type: 3}
+  hairSlots:
+  - name: HEAD1
+    id: 1
+    typeOfNewBody: 0
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: 6ec07f72880af034a95f9bdba015d214, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HEAD2
+    id: 2
+    typeOfNewBody: 0
+    indexSort: 2
+    sprite: {fileID: 21300000, guid: 8bfb87e0db4a8104a943050efa5d1190, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HEAD3
+    id: 3
+    typeOfNewBody: 0
+    indexSort: 3
+    sprite: {fileID: 21300000, guid: ef417e3641bae9b4fb541dc2e1936a89, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HEAD4
+    id: 4
+    typeOfNewBody: 0
+    indexSort: 4
+    sprite: {fileID: 21300000, guid: 9e2e63af812d716449f107233ff9e3ac, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 30
+  eyeSlots:
+  - name: HAIR1
+    id: 1
+    typeOfNewBody: 1
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: 95f0e2369c4d3904f9b0d63a35787e11, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR2
+    id: 2
+    typeOfNewBody: 1
+    indexSort: 2
+    sprite: {fileID: 21300000, guid: 4214bb94b29f16144b50eca5559576a4, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR3
+    id: 3
+    typeOfNewBody: 1
+    indexSort: 3
+    sprite: {fileID: 21300000, guid: 612750c26b42522489327997a85e3332, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HAIR4
+    id: 4
+    typeOfNewBody: 1
+    indexSort: 4
+    sprite: {fileID: 21300000, guid: b93b85fe757898b48b315a9dc29134f2, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR5
+    id: 5
+    typeOfNewBody: 1
+    indexSort: 5
+    sprite: {fileID: 21300000, guid: 338ccebcb1e6161419fa2d8369748b64, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HAIR6
+    id: 6
+    typeOfNewBody: 1
+    indexSort: 6
+    sprite: {fileID: 21300000, guid: b964cb168ba91964fbfe145053ca26ea, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR7
+    id: 7
+    typeOfNewBody: 1
+    indexSort: 7
+    sprite: {fileID: 21300000, guid: 4ab03de56e5270040a45d804036ad7dd, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR8
+    id: 8
+    typeOfNewBody: 1
+    indexSort: 8
+    sprite: {fileID: 21300000, guid: 07f78bc0d3314bd4ea15ddc393cfaac7, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HAIR9
+    id: 9
+    typeOfNewBody: 1
+    indexSort: 9
+    sprite: {fileID: 21300000, guid: 6ddd571dfafd1e94a9fd5c2fc71adb44, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR10
+    id: 10
+    typeOfNewBody: 1
+    indexSort: 10
+    sprite: {fileID: 21300000, guid: 24cc3f382ecb15a47bff083c023183e9, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR11
+    id: 11
+    typeOfNewBody: 1
+    indexSort: 11
+    sprite: {fileID: 21300000, guid: 6d920feb2f074164e9fbe599068f53fe, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR12
+    id: 12
+    typeOfNewBody: 1
+    indexSort: 12
+    sprite: {fileID: 21300000, guid: 441cf434cb2f8084e91df04f4aa037a5, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 0
+  - name: HAIR13
+    id: 13
+    typeOfNewBody: 1
+    indexSort: 13
+    sprite: {fileID: 21300000, guid: 46a3ad5d6af02334f98ff343e70ef623, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR14
+    id: 14
+    typeOfNewBody: 1
+    indexSort: 14
+    sprite: {fileID: 21300000, guid: 46e2404d71d1f0e4f9dcd944ea40c756, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR15
+    id: 15
+    typeOfNewBody: 1
+    indexSort: 15
+    sprite: {fileID: 21300000, guid: 5ee2962626b113c45a374f071e019225, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  dressSlots:
+  - name: SKIN1
+    id: 1
+    typeOfNewBody: 2
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: e744ff2c12b4f30448d65437d57bdd5b, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  shoeSlots:
+  - name: CUSTOM1
+    id: 1
+    typeOfNewBody: 3
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: b7cb93d20a58a8740aaf0bd8d3c478f9, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM2
+    id: 2
+    typeOfNewBody: 3
+    indexSort: 2
+    sprite: {fileID: 21300000, guid: 9dcaedadfdf003647a67bbe8b338a979, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM3
+    id: 3
+    typeOfNewBody: 3
+    indexSort: 3
+    sprite: {fileID: 21300000, guid: 384d8bb1209b26d4d93f24d48484a533, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: CUSTOM4
+    id: 4
+    typeOfNewBody: 3
+    indexSort: 4
+    sprite: {fileID: 21300000, guid: 93be258f4be709e4ebd37171bec005e4, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM5
+    id: 5
+    typeOfNewBody: 3
+    indexSort: 5
+    sprite: {fileID: 21300000, guid: c10d67311409ff94888ddea417976a78, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: CUSTOM6
+    id: 6
+    typeOfNewBody: 3
+    indexSort: 6
+    sprite: {fileID: 21300000, guid: 6b8cfbf3467e4fb44babd19b37ab8fd7, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM7
+    id: 7
+    typeOfNewBody: 3
+    indexSort: 7
+    sprite: {fileID: 21300000, guid: 6f6afafdda25bcf4baa3b5cdd0631108, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM8
+    id: 8
+    typeOfNewBody: 3
+    indexSort: 8
+    sprite: {fileID: 21300000, guid: 4c862c49336025e4f942f51bca3ab6eb, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM9
+    id: 9
+    typeOfNewBody: 3
+    indexSort: 9
+    sprite: {fileID: 21300000, guid: 9bd30e6366330d840afb838b43d1ba24, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM10
+    id: 10
+    typeOfNewBody: 3
+    indexSort: 10
+    sprite: {fileID: 21300000, guid: d30e5422e19079f49a72157f75bca296, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 20
+  - name: CUSTOM11
+    id: 11
+    typeOfNewBody: 3
+    indexSort: 11
+    sprite: {fileID: 21300000, guid: 67fc16960f9513145b0c5a1a00e382cd, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM12
+    id: 12
+    typeOfNewBody: 3
+    indexSort: 12
+    sprite: {fileID: 21300000, guid: 15b20016ac2063c4aa2e872fd1b1fbe1, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM13
+    id: 13
+    typeOfNewBody: 3
+    indexSort: 13
+    sprite: {fileID: 21300000, guid: f09876ddc0bde3941860c8b43a287b2a, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM14
+    id: 14
+    typeOfNewBody: 3
+    indexSort: 14
+    sprite: {fileID: 21300000, guid: ecacea9be20935f48ba1a1b90f6b54c0, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 40
+  - name: CUSTOM15
+    id: 15
+    typeOfNewBody: 3
+    indexSort: 15
+    sprite: {fileID: 21300000, guid: 2f7a98d2d5551fc4da18caf3db1be305, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  hairSlotsSorted:
+  - name: HEAD1
+    id: 1
+    typeOfNewBody: 0
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: 6ec07f72880af034a95f9bdba015d214, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HEAD2
+    id: 2
+    typeOfNewBody: 0
+    indexSort: 2
+    sprite: {fileID: 21300000, guid: 8bfb87e0db4a8104a943050efa5d1190, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HEAD3
+    id: 3
+    typeOfNewBody: 0
+    indexSort: 3
+    sprite: {fileID: 21300000, guid: ef417e3641bae9b4fb541dc2e1936a89, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HEAD4
+    id: 4
+    typeOfNewBody: 0
+    indexSort: 4
+    sprite: {fileID: 21300000, guid: 9e2e63af812d716449f107233ff9e3ac, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 30
+  eyeSlotsSorted:
+  - name: HAIR1
+    id: 1
+    typeOfNewBody: 1
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: 95f0e2369c4d3904f9b0d63a35787e11, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR2
+    id: 2
+    typeOfNewBody: 1
+    indexSort: 2
+    sprite: {fileID: 21300000, guid: 4214bb94b29f16144b50eca5559576a4, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR3
+    id: 3
+    typeOfNewBody: 1
+    indexSort: 3
+    sprite: {fileID: 21300000, guid: 612750c26b42522489327997a85e3332, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HAIR4
+    id: 4
+    typeOfNewBody: 1
+    indexSort: 4
+    sprite: {fileID: 21300000, guid: b93b85fe757898b48b315a9dc29134f2, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR5
+    id: 5
+    typeOfNewBody: 1
+    indexSort: 5
+    sprite: {fileID: 21300000, guid: 338ccebcb1e6161419fa2d8369748b64, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HAIR6
+    id: 6
+    typeOfNewBody: 1
+    indexSort: 6
+    sprite: {fileID: 21300000, guid: b964cb168ba91964fbfe145053ca26ea, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR7
+    id: 7
+    typeOfNewBody: 1
+    indexSort: 7
+    sprite: {fileID: 21300000, guid: 4ab03de56e5270040a45d804036ad7dd, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR8
+    id: 8
+    typeOfNewBody: 1
+    indexSort: 8
+    sprite: {fileID: 21300000, guid: 07f78bc0d3314bd4ea15ddc393cfaac7, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: HAIR9
+    id: 9
+    typeOfNewBody: 1
+    indexSort: 9
+    sprite: {fileID: 21300000, guid: 6ddd571dfafd1e94a9fd5c2fc71adb44, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR10
+    id: 10
+    typeOfNewBody: 1
+    indexSort: 10
+    sprite: {fileID: 21300000, guid: 24cc3f382ecb15a47bff083c023183e9, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR11
+    id: 11
+    typeOfNewBody: 1
+    indexSort: 11
+    sprite: {fileID: 21300000, guid: 6d920feb2f074164e9fbe599068f53fe, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR12
+    id: 12
+    typeOfNewBody: 1
+    indexSort: 12
+    sprite: {fileID: 21300000, guid: 441cf434cb2f8084e91df04f4aa037a5, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 0
+  - name: HAIR13
+    id: 13
+    typeOfNewBody: 1
+    indexSort: 13
+    sprite: {fileID: 21300000, guid: 46a3ad5d6af02334f98ff343e70ef623, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR14
+    id: 14
+    typeOfNewBody: 1
+    indexSort: 14
+    sprite: {fileID: 21300000, guid: 46e2404d71d1f0e4f9dcd944ea40c756, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: HAIR15
+    id: 15
+    typeOfNewBody: 1
+    indexSort: 15
+    sprite: {fileID: 21300000, guid: 5ee2962626b113c45a374f071e019225, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  dressSlotsSorted:
+  - name: SKIN1
+    id: 1
+    typeOfNewBody: 2
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: e744ff2c12b4f30448d65437d57bdd5b, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  shoeSlotsSorted:
+  - name: CUSTOM1
+    id: 1
+    typeOfNewBody: 3
+    indexSort: 1
+    sprite: {fileID: 21300000, guid: b7cb93d20a58a8740aaf0bd8d3c478f9, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM2
+    id: 2
+    typeOfNewBody: 3
+    indexSort: 2
+    sprite: {fileID: 21300000, guid: 9dcaedadfdf003647a67bbe8b338a979, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM3
+    id: 3
+    typeOfNewBody: 3
+    indexSort: 3
+    sprite: {fileID: 21300000, guid: 384d8bb1209b26d4d93f24d48484a533, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: CUSTOM4
+    id: 4
+    typeOfNewBody: 3
+    indexSort: 4
+    sprite: {fileID: 21300000, guid: 93be258f4be709e4ebd37171bec005e4, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM5
+    id: 5
+    typeOfNewBody: 3
+    indexSort: 5
+    sprite: {fileID: 21300000, guid: c10d67311409ff94888ddea417976a78, type: 3}
+    stateOfNewSlot: 1
+    priceGold: 0
+  - name: CUSTOM6
+    id: 6
+    typeOfNewBody: 3
+    indexSort: 6
+    sprite: {fileID: 21300000, guid: 6b8cfbf3467e4fb44babd19b37ab8fd7, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM7
+    id: 7
+    typeOfNewBody: 3
+    indexSort: 7
+    sprite: {fileID: 21300000, guid: 6f6afafdda25bcf4baa3b5cdd0631108, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM8
+    id: 8
+    typeOfNewBody: 3
+    indexSort: 8
+    sprite: {fileID: 21300000, guid: 4c862c49336025e4f942f51bca3ab6eb, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM9
+    id: 9
+    typeOfNewBody: 3
+    indexSort: 9
+    sprite: {fileID: 21300000, guid: 9bd30e6366330d840afb838b43d1ba24, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM10
+    id: 10
+    typeOfNewBody: 3
+    indexSort: 10
+    sprite: {fileID: 21300000, guid: d30e5422e19079f49a72157f75bca296, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 20
+  - name: CUSTOM11
+    id: 11
+    typeOfNewBody: 3
+    indexSort: 11
+    sprite: {fileID: 21300000, guid: 67fc16960f9513145b0c5a1a00e382cd, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM12
+    id: 12
+    typeOfNewBody: 3
+    indexSort: 12
+    sprite: {fileID: 21300000, guid: 15b20016ac2063c4aa2e872fd1b1fbe1, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM13
+    id: 13
+    typeOfNewBody: 3
+    indexSort: 13
+    sprite: {fileID: 21300000, guid: f09876ddc0bde3941860c8b43a287b2a, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  - name: CUSTOM14
+    id: 14
+    typeOfNewBody: 3
+    indexSort: 14
+    sprite: {fileID: 21300000, guid: ecacea9be20935f48ba1a1b90f6b54c0, type: 3}
+    stateOfNewSlot: 2
+    priceGold: 40
+  - name: CUSTOM15
+    id: 15
+    typeOfNewBody: 3
+    indexSort: 15
+    sprite: {fileID: 21300000, guid: 2f7a98d2d5551fc4da18caf3db1be305, type: 3}
+    stateOfNewSlot: 0
+    priceGold: 0
+  countScoreToExp: 10

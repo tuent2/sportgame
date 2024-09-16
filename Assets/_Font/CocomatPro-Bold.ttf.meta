@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 85d8753e790078b46ac86224db0b0a55
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cocomat Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69db3faf8b904ec4b9c854083d7465d0, type: 3}
+  - {fileID: 12800000, guid: 11e5284d70248d649a10422f6653d425, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
